@@ -1,0 +1,2 @@
+# convexopt
+Convex Optimization Ideas
